@@ -58,6 +58,7 @@ Limitaciones:
 
 
 
+--------
 **Pregunta 2: 
 Función de la Capa de Transporte**
 
@@ -75,7 +76,7 @@ En el modelo TCP/IP, también existe una capa de transporte que cumple funciones
 Ambos modelos coinciden en que la capa de transporte permite a las aplicaciones comunicarse de forma robusta, gestionando cómo se envían y reciben los datos entre los extremos de una red.
 
 
-
+-------
 
 **Pregunta 3: TCP vs. UDP**
 **Compara y contrasta TCP y UDP en términos de:**
@@ -119,7 +120,7 @@ Ambos modelos coinciden en que la capa de transporte permite a las aplicaciones 
 	•	DNS (Domain Name System)
 
 
-
+-------
 **Pregunta 4: Protocolo para Transferencia de Archivos
 a) ¿Qué protocolo de la capa de aplicación se utiliza tradicionalmente para la transferencia de archivos en redes TCP/IP?
 b) Menciona al menos dos alternativas a este protocolo, resaltando sus diferencias principales en cuanto a seguridad o funcionalidad.**
@@ -147,6 +148,7 @@ El protocolo tradicionalmente utilizado para la transferencia de archivos en red
 	•	Puede ser más compatible con clientes FTP tradicionales que SFTP, pero requiere certificados digitales.
 
 
+-------
 **Pregunta 5:**
 
 
@@ -206,7 +208,7 @@ Con la dirección IP ya resuelta, el navegador inicia una conexión con el servi
 Luego, comienza la solicitud de contenido web (por ejemplo, descarga de la página HTML).
 
 
-
+------
 
 **Pregunta 6:**
 
