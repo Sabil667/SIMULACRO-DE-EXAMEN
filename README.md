@@ -57,6 +57,7 @@ Limitaciones:
 
 Pregunta 2: 
 Función de la Capa de Transporte
+
 **Explica el papel de la capa de transporte en ambos modelos (OSI y TCP/IP). En tu respuesta, menciona cómo se garantiza la entrega de datos y da ejemplos de protocolos asociados a esta capa.**
 
 
