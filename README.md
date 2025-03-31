@@ -1,5 +1,6 @@
 # SIMULACRO-DE-EXAMEN
 
+Link de mi repositorio en github: https://github.com/Sabil667/SIMULACRO-DE-EXAMEN.git
 
 **Parte I: Conceptos y Teoría
 Pregunta 1: Modelos OSI y TCP/IP**
