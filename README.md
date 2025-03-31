@@ -4,9 +4,9 @@
 Parte I: Conceptos y Teoría
 Pregunta 1: Modelos OSI y TCP/IP
 
-*a) Describe las principales diferencias entre el modelo OSI y el modelo TCP/IP, considerando aspectos como el número de capas, la orientación (teórica vs. práctica) y el manejo de la capa de aplicación.*
+**a) Describe las principales diferencias entre el modelo OSI y el modelo TCP/IP, considerando aspectos como el número de capas, la orientación (teórica vs. práctica) y el manejo de la capa de aplicación.**
 
-*b) Explica brevemente las ventajas y limitaciones de cada uno de estos modelos.*
+**b) Explica brevemente las ventajas y limitaciones de cada uno de estos modelos.**
 
 
 A)
@@ -57,7 +57,7 @@ Limitaciones:
 
 Pregunta 2: 
 Función de la Capa de Transporte
-*Explica el papel de la capa de transporte en ambos modelos (OSI y TCP/IP). En tu respuesta, menciona cómo se garantiza la entrega de datos y da ejemplos de protocolos asociados a esta capa.*
+**Explica el papel de la capa de transporte en ambos modelos (OSI y TCP/IP). En tu respuesta, menciona cómo se garantiza la entrega de datos y da ejemplos de protocolos asociados a esta capa.**
 
 
 La capa de transporte en los modelos OSI y TCP/IP tiene como función principal garantizar la comunicación confiable de extremo a extremo entre dispositivos en una red. Esta capa se encarga de asegurar que los datos lleguen completos, en el orden correcto y sin errores.
