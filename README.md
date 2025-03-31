@@ -11,6 +11,7 @@ Pregunta 1: Modelos OSI y TCP/IP
 
 A)
 -MODELO OSI-
+
 Numero de capas--> Tiene 7 capas: Fisica, enlace de datos, red, transporte, sesion, presentacion, Aplicacion
 Orientacion--> Teorica: fue diseñado como un modelo de referencia estandarizado
 Separacion de conceptos--> Distingue claramente entre servicio, interfaz y protocolo
@@ -19,11 +20,13 @@ Soporte para conexiones--> Solo soporta comunicacion orientada a conexion en la 
 
 
 -MODELO TCP/IP-
+
 Numero de capas--> Tiene 4 capas: Acceso a red, Internet, Transporte y Aplicacion
 Orientacion--> Practica: basado en protocolos reales en uso como IP, TCP y UDP
 Separacion de conceptos--> No distingue de forma clara estos conceptos (puede causar ambigüedad en ingenierÃ­a de software)
 Capas superiores--> Estas funciones estan integradas dentro de la capa de aplicacion
 Soporte para conexiones--> Soporta orientado y no orientado a conexion (TCP y UDP)
+
 
 B)
 
