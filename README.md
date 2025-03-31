@@ -249,7 +249,11 @@ Durante la recepción de datos (receptor):
 
 
 El proceso se invierte, capa por capa:
-	1.	Capa de Acceso a Red: Recibe los bits, reconstruye las tramas y verifica la integridad física.
-	2.	Capa de Internet: Lee la dirección IP, valida que el paquete está destinado a él y lo reenvía a la capa de transporte.
-	3.	Capa de Transporte: Reconstruye los segmentos/datagramas, asegura orden, fiabilidad (si usa TCP), y entrega los datos al puerto correspondiente.
-	4.	Capa de Aplicación: Entrega los datos al programa final (como un navegador, app de correo, etc.), y el usuario ve la información.
+
+ 1.	Capa de Acceso a Red: Recibe los bits, reconstruye las tramas y verifica la integridad física.
+	
+ 2.	Capa de Internet: Lee la dirección IP, valida que el paquete está destinado a él y lo reenvía a la capa de transporte.
+
+ 3.	Capa de Transporte: Reconstruye los segmentos/datagramas, asegura orden, fiabilidad (si usa TCP), y entrega los datos al puerto correspondiente.
+
+ 4.	Capa de Aplicación: Entrega los datos al programa final (como un navegador, app de correo, etc.), y el usuario ve la información.
